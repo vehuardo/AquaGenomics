@@ -1,1 +1,5 @@
-Overview of phenotypic ESBL isolates collected from the Oslofjord (location: Operastranda) during the 2024 summer 
+Table of phenotypic ESBL isolates collected from the Oslofjord (location: Operastranda) during the 2024 summer:
+Assembly,Ani_rep_closest_hit,beta-lactamase
+E01.fasta,Pseudomonas_F_tohonis,blaPAM-3
+E02.fasta,Flavobacterium_odoratimimum,blaMUS
+EO3.fasta,Acinetobacter_venetianus,blaOXA
